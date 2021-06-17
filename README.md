@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[贡献3D仿真图](https://skyline.github.com/attlee-wang/2021)
 
 <p align="center">
   <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
@@ -34,7 +35,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc.
 - 👍 I’m looking to collaborate on projects that empower cloud native productivity.
 
----
-![](view-source:https://skyline.github.com/attlee-wang/2021)
 
-[![video-edgeadm-install-edge-kubernetes_CN](https://avatars.githubusercontent.com/u/57479557?v=4)](https://skyline.github.com/attlee-wang/2021)
