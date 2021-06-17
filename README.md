@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc.
 - 👍 I’m looking to collaborate on projects that empower cloud native productivity.
+
+---
+![](view-source:https://skyline.github.com/attlee-wang/2021)
+
+[![video-edgeadm-install-edge-kubernetes_CN](https://skyline.github.com/attlee-wang/2021)](https://skyline.github.com/attlee-wang/2021)
