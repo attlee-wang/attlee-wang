@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ---
 ![](view-source:https://skyline.github.com/attlee-wang/2021)
 
-[![video-edgeadm-install-edge-kubernetes_CN](https://skyline.github.com/attlee-wang/2021)](https://skyline.github.com/attlee-wang/2021)
+[![video-edgeadm-install-edge-kubernetes_CN](https://avatars.githubusercontent.com/u/57479557?v=4)](https://skyline.github.com/attlee-wang/2021)
