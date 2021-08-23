@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 - I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc;
 - I’m looking to collaborate on projects that empower cloud native productivity;
 
+**个人分享**
+- [QCon+ 北京2021全球软件开发者大会——《SuperEdge 将 Kubernetes 延伸到边缘的技术解密》](https://qconplus.infoq.cn/2021/beijing/presentation/3748)
+
 
