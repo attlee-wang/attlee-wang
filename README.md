@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=767676">
 </p>
 
-- [CNCF Sandbox项目SuperEdge](https://github.com/superedge/superedge) Co-Founder && 核心维护者;
+- [CNCF Sandbox 项目 SuperEdge](https://github.com/superedge/superedge) Co-Founder && 核心维护者;
 - [云原生社区](https://cloudnative.to/)核心贡献者，[边缘计算SIG](https://i.cloudnative.to/edge/)的创立者;
 - I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc;
 - I’m looking to collaborate on projects that empower cloud native productivity;
