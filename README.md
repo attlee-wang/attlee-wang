@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 **个人分享**
 - [QCon+ 北京2021全球软件开发者大会——《SuperEdge 将 Kubernetes 延伸到边缘的技术解密》](https://qconplus.infoq.cn/2021/beijing/presentation/3748)
-- CNCF、LF Edge、Vmware等组织联合举办的2021智能云边开源峰会边缘计算专场 —《 SuperEdge的新特性和未来之路》
 - [VMware 联合了 Intel、 PingCAP 等多组织联合举办的2021智能云边开源峰会分享《 SuperEdge的新特性和未来之路》](https://cloud.tencent.com/developer/article/1883809)
 
 
