@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 - [VMware 联合了 Intel、 PingCAP 等多组织联合举办的2021智能云边开源峰会分享《 SuperEdge的新特性和未来之路》](https://cloud.tencent.com/developer/article/1883809)
 
 
+<p align="center">
+  <img src="https://github.com/uber/kraken/blob/master/assets/visualization.gif" title="Visualization">
+</p>
