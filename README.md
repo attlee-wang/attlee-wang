@@ -37,8 +37,15 @@ Here are some ideas to get you started:
   <img src="docs/images/QR_code.png" width=80% title="SuperEdge WeChat group">
 </div>
 
+<!--
 <p align="center">
   <img src="https://github.com/uber/kraken/blob/master/assets/visualization.gif" title="Visualization">
+</p>
+-->
+
+
+<p align="center">
+  <img src="docs/images/attlee-git.gif" title="Visualization">
 </p>
 
 <p align="center">
