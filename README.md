@@ -2,23 +2,11 @@
 
 <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=attlee-wang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huweihuang&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-
----
-<!--
-**dixudx/dixudx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [贡献3D仿真图](https://skyline.github.com/attlee-wang/2021)
+
+<p align="center">
+  <img src="docs/images/attlee-git.gif" title="Visualization">
+</p>
 
 
 
@@ -43,10 +31,6 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
-<p align="center">
-  <img src="docs/images/attlee-git.gif" title="Visualization">
-</p>
 
 <p align="center">
   <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
