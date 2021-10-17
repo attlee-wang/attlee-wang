@@ -20,15 +20,7 @@ Here are some ideas to get you started:
 -->
 [贡献3D仿真图](https://skyline.github.com/attlee-wang/2021)
 
-<p align="center">
-  <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
-  <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
-</p>
 
-<p align="center">
-  <img alt="Golang" src="https://img.shields.io/static/v1?style=flat&logo=Go&label=&message=Golang&color=767676">
-  <img alt="C++" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=767676">
-</p>
 
 - [CNCF Sandbox 项目 SuperEdge](https://github.com/superedge/superedge) Co-Founder && 核心维护者;
 - [云原生社区](https://cloudnative.to/)核心贡献者，[边缘计算SIG](https://i.cloudnative.to/edge/)的创立者;
@@ -41,6 +33,17 @@ Here are some ideas to get you started:
 - [2021 Inaugural Kubernetes Community Days China of Beijing](https://community.cncf.io/events/details/cncf-kcd-china-presents-kubernetes-community-days-china/)
 
 
+<div align="center">
+  <img src="docs/images/QR_code.png" width=80% title="SuperEdge WeChat group">
+</div>
+
 <p align="center">
   <img src="https://github.com/uber/kraken/blob/master/assets/visualization.gif" title="Visualization">
+</p>
+
+<p align="center">
+  <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
+  <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
+  <img alt="Golang" src="https://img.shields.io/static/v1?style=flat&logo=Go&label=&message=Golang&color=767676">
+   <img alt="C++" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Cpp&color=767676">
 </p>
