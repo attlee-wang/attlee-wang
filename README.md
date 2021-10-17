@@ -1,19 +1,19 @@
-<!--原来的提交显示 ![](https://github-readme-stats.vercel.app/api?username=attlee-wang&theme=buefy&show_icons=true) -->
-
-<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=attlee-wang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huweihuang&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+<!--
 [贡献3D仿真图](https://skyline.github.com/attlee-wang/2021)
+-->
 
 <p align="center">
   <img src="docs/images/attlee-git.gif" title="Visualization">
 </p>
 
 
-
 - [CNCF Sandbox 项目 SuperEdge](https://github.com/superedge/superedge) Co-Founder && 核心维护者;
 - [云原生社区](https://cloudnative.to/)核心贡献者，[边缘计算SIG](https://i.cloudnative.to/edge/)的创立者;
 - I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc;
 - I’m looking to collaborate on projects that empower cloud native productivity;
+
+<!--原来的提交显示 ![](https://github-readme-stats.vercel.app/api?username=attlee-wang&theme=buefy&show_icons=true) -->
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=attlee-wang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huweihuang&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 **个人分享**
 - [QCon+ 北京2021全球软件开发者大会——《SuperEdge 将 Kubernetes 延伸到边缘的技术解密》](https://qconplus.infoq.cn/2021/beijing/presentation/3748)
