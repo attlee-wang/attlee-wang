@@ -8,7 +8,7 @@
 
 
 - [CNCF Sandbox 项目 SuperEdge](https://github.com/superedge/superedge) Co-Founder && 核心维护者;
-- [云原生社区](https://cloudnative.to/)核心贡献者，[边缘计算SIG](https://i.cloudnative.to/edge/)的创立者;
+- 边缘计算专家，边缘布道师，[云原生社区](https://cloudnative.to/)核心贡献者，[边缘计算SIG](https://i.cloudnative.to/edge/)的创立者;
 - I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc;
 - I’m looking to collaborate on projects that empower cloud native productivity;
 
