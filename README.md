@@ -16,6 +16,7 @@
 <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=attlee-wang&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huweihuang&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 **个人分享**
+- [KubeCon 2021年中国 线上峰会——《SuperEdge Promotes Kubernetes to edge computing technology》](https://kccncosschn21.sched.com/event/qBoU/superedgekubernetesyi-sui-zha-ji-superedge-promoting-kubernetes-to-the-edge-of-technology-decryption-attlee-wang-roy-liang-tencent?iframe=no)
 - [QCon+ 北京2021全球软件开发者大会——《SuperEdge 将 Kubernetes 延伸到边缘的技术解密》](https://qconplus.infoq.cn/2021/beijing/presentation/3748)
 - [VMware 联合了 Intel、 PingCAP 等多组织联合举办的2021智能云边开源峰会分享《 SuperEdge的新特性和未来之路》](https://cloud.tencent.com/developer/article/1883809)
 - [2021 Inaugural Kubernetes Community Days China of Beijing](https://community.cncf.io/events/details/cncf-kcd-china-presents-kubernetes-community-days-china/)
