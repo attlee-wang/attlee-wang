@@ -21,6 +21,8 @@
 - [VMware 联合了 Intel、 PingCAP 等多组织联合举办的2021智能云边开源峰会分享《 SuperEdge的新特性和未来之路》](https://cloud.tencent.com/developer/article/1883809)
 - [2021 Inaugural Kubernetes Community Days China of Beijing](https://community.cncf.io/events/details/cncf-kcd-china-presents-kubernetes-community-days-china/)
 
+**发布的文章**
+- [发布文章13篇](https://github.com/attlee-wang/attlee-wang/blob/main/docs/images/article)
 
 <div align="center">
   <img src="docs/images/QR_code.png" width=80% title="SuperEdge WeChat group">
